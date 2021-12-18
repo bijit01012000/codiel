@@ -13,6 +13,7 @@
   "author": "bijit sahu",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "view": "^1.1.1"
   }
 }
